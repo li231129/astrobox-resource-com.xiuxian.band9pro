@@ -1,0 +1,28 @@
+{
+  "downloads": {
+    "xmb9p": {
+      "file_name": "downloads/0-com.xiuxian.band9pro.debug.2.0.3.rpk",
+      "sha256": "213bc45684e809f8e086b67e7ebd25e1b85bf7ca95ef6fcd5554a4b0a8ae515d",
+      "version": "1.0.0"
+    }
+  },
+  "ext": {},
+  "item": {
+    "author": [
+      {
+        "bindABAccount": true,
+        "name": "lyl231129"
+      }
+    ],
+    "cover": "media/cover.webp",
+    "description": "一个免费的修仙小游戏",
+    "icon": "media/icon.webp",
+    "id": "com.xiuxian.band9pro",
+    "name": "修仙",
+    "preview": [
+      "media/preview-2.webp"
+    ],
+    "restype": "quick_app"
+  },
+  "links": []
+}
